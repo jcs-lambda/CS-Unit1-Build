@@ -1,5 +1,7 @@
 # Lambda School CS Unit 1 Build Project
 
+[Blog post](https://jcs-lambda.github.io/2020-06-25-Naive-Bayes/) explaining this implementation.
+
 ## Gaussian Naive Bayes Classifier
 
 Gaussian Naive Bayes Classifier implemented as a SciKit-Learn estimator.
